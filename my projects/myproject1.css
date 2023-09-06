@@ -1,0 +1,31 @@
+.box {
+  margin-top: 100px;
+  margin-left: 50%;
+  margin-bottom: 100px;
+}
+.name {
+  float: left;
+  margin-left: 30%;
+}
+
+.surname {
+}
+#textboxx {
+  text-align: center;
+}
+
+.blue {
+  background-color: blue;
+  color: white;
+  height: 30px;
+  width: 50px;
+  border-radius: 5px;
+}
+
+.red {
+  background-color: red;
+  color: white;
+  height: 30px;
+  width: 50px;
+  border-radius: 5px;
+}

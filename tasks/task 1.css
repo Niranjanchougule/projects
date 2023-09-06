@@ -1,0 +1,27 @@
+.box {
+  margin-bottom: 100px;
+  margin-top: 25%;
+  text-align: center;
+}
+
+.blue {
+  margin-right: 50px;
+  width: 50px;
+  background-color: blue;
+  color: antiquewhite;
+}
+.red {
+  background-color: red;
+  width: 50px;
+  color: antiquewhite;
+}
+
+.textbox {
+  text-align: center;
+}
+.name {
+  float: left;
+  margin-left: 300px;
+}
+.surname {
+}
