@@ -17,11 +17,7 @@
 }
 
 .textbox {
-  text-align: center;
-}
-.name {
-  float: left;
-  margin-left: 300px;
-}
-.surname {
+  display: flex;
+  gap: 60px;
+  justify-content: center;
 }
